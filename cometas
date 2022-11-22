@@ -385,4 +385,8 @@ echo Limpando a tela em 6 segundos
 
 sleep 6s
 
-from cls or clear 
+cls
+
+clear
+
+cometa
